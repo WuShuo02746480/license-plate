@@ -10,4 +10,5 @@
 •再準備一張車牌的清晰照片
 ## 實作方法   
 •將車牌的圖片導入colab裡進行辨識，再將辨識的文字導出   
+※須注意圖片路徑要更改
 ![image](https://github.com/WuShuo02746480/license-plate/assets/71304560/97d14256-e4ce-4ce5-822f-743a3eaff4ea)   
