@@ -8,6 +8,7 @@
 •請準備一個可以使用google colab 的帳號   
 •請下載我們提供的：plate_recognition.ipynb  
 •再準備一張有車牌的的清晰照片  
+![image]()
 
 ## 實作方法   
 •將車牌的圖片導入colab裡，將車牌以外的圖片去除之後，利用OCR辨識照片中的文字。  
