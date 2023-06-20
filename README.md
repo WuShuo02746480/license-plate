@@ -16,5 +16,5 @@
 •將辨識的結果印在圖片中車牌的旁邊  
 ![image](https://github.com/WuShuo02746480/license-plate/blob/main/result.jpg)  
 ※須注意圖片路徑要更改  
-##參考資料
+## 參考資料
 https://github.com/chenw7/Car-Plate-Recognition
