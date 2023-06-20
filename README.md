@@ -12,6 +12,8 @@
 
 ## 實作方法   
 •將車牌的圖片導入colab裡，將車牌以外的圖片去除之後，利用OCR辨識照片中的文字。  
+![image](https://github.com/WuShuo02746480/license-plate/blob/main/image.jpg)
 •將辨識的結果印在圖片中車牌的旁邊  
+
 ※須注意圖片路徑要更改
 
