@@ -6,9 +6,10 @@
 •實作方法   
 ## 準備資料    
 •請準備一個可以使用google colab 的帳號   
-•請下載我們提供的：license_plate_recognition.ipynb   
+•請下載我們提供的：plate_recognition.ipynb  
 •再準備一張車牌的清晰照片
 ## 實作方法   
-•將車牌的圖片導入colab裡進行辨識，再將辨識的結果印出，檢查是否正確   
+•將車牌的圖片導入colab裡，將車牌以外的圖片去除之後，利用OCR辨識照片中的文字。
+•將辨識的結果印在圖片中車牌的旁邊
 ※須注意圖片路徑要更改
-![image](https://github.com/WuShuo02746480/license-plate/assets/71304560/97d14256-e4ce-4ce5-822f-743a3eaff4ea)   
+
